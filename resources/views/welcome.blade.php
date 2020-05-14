@@ -11,11 +11,14 @@ Cek Ongkos Kirim
             <legend>Cek Ongkos Kirim</legend>
         </fieldset>
         <div class="inner-form">
-            <div class="input-field first-wrap">
+            <div class="input-field second-wrap">
                 <input id="search" type="text" placeholder="Dari mana" />
             </div>
             <div class="input-field second-wrap">
                 <input id="location" type="text" placeholder="Kemana" />
+            </div>
+            <div class="input-field second-wrap">
+                <input id="location" type="text" placeholder="Kurir" />
             </div>
             <div class="input-field third-wrap">
                 <button class="btn-search" type="button">Search</button>

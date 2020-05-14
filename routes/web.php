@@ -14,5 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('cekongkir');
 });
+
+Route::get('/ongkir', 'CekOngkirController@index')->name('ongkir');
+Route::get('/resi', 'CekResiController@index')->name('resi');

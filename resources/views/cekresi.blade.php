@@ -8,7 +8,7 @@ Cek Resi
 <div class="s01">
     <form>
         <fieldset>
-            <legend>Cek Ongkos Kirim</legend>
+            <legend>Cek Resi</legend>
         </fieldset>
         <div class="inner-form">
             <div class="input-field first-wrap">
